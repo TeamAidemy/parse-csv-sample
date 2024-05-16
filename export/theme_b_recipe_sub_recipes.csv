@@ -1,0 +1,13 @@
+theme_b_recipe_sub_recipes.__id,theme_b_recipe_recipes.__id,theme_b_recipe_sub_recipes.__name,theme_b_recipe_sub_recipes.additive
+レシピ.サブレシピID,レシピ.レシピID,レシピ.サブレシピ名,レシピ.添加剤
+text,text,text,boolean
+b12cd3a9-2b87-4aea-964a-4e64f4bdf0cc,2ed6f86e-9e23-4baa-ae57-33ef1817e160,配合ステップ1,false
+45c3aafd-d8ed-418f-8ac4-60a6bacc4e06,e51ee3f1-2ef9-4685-9bb1-717dedecd32a,配合ステップ1,false
+07c6f1a1-2032-40dc-9f3e-b8102915a981,7ffb28c8-ad14-42f2-938b-c83bc2c2eae9,配合ステップ1,true
+f0c69b4b-235b-446b-ba8d-13a210cfd19d,f56206b8-1766-4d3e-85f9-3eea07661c45,配合ステップ1,true
+f5047c36-d953-459f-b681-464fd43b2c1d,66c2148c-df73-4896-b4b0-5e83aedb3f7a,配合ステップ1,false
+71cf5a34-ecf5-4481-828d-ab48b00ec23d,2ed6f86e-9e23-4baa-ae57-33ef1817e160,配合ステップ2,true
+a0a85502-aca2-4efa-bdac-4631b9366b35,e51ee3f1-2ef9-4685-9bb1-717dedecd32a,配合ステップ2,false
+09687ba8-6c96-4d74-a83d-bd875bbc73d5,7ffb28c8-ad14-42f2-938b-c83bc2c2eae9,配合ステップ2,true
+200a639c-4973-4f4a-ac13-b4d90870232e,f56206b8-1766-4d3e-85f9-3eea07661c45,配合ステップ2,false
+ca89ec11-ef1f-4141-8826-9fef6ab8739d,66c2148c-df73-4896-b4b0-5e83aedb3f7a,配合ステップ2,true

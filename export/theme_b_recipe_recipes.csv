@@ -1,0 +1,8 @@
+theme_b_recipe_recipes.__id,theme_b_recipe_recipes.__recipe_name,project.__id,theme_b_recipe_recipes.temp,theme_b_recipe_recipes.additive
+レシピ.ID,レシピ.レシピ名,プロジェクト.ID,レシピ.温度,レシピ.添加剤
+text,text,text,number,boolean
+2ed6f86e-9e23-4baa-ae57-33ef1817e160,レシピ1,df9d5402-218b-4d0d-87f0-c486340896ea,150,true
+e51ee3f1-2ef9-4685-9bb1-717dedecd32a,レシピ2,df9d5402-218b-4d0d-87f0-c486340896ea,150,false
+7ffb28c8-ad14-42f2-938b-c83bc2c2eae9,レシピ3,df9d5402-218b-4d0d-87f0-c486340896ea,200,true
+f56206b8-1766-4d3e-85f9-3eea07661c45,レシピ4,df9d5402-218b-4d0d-87f0-c486340896ea,200,false
+66c2148c-df73-4896-b4b0-5e83aedb3f7a,レシピ5,df9d5402-218b-4d0d-87f0-c486340896ea,120,true
