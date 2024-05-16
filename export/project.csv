@@ -1,0 +1,5 @@
+project.__id,project.__record_name,project.client_name,project.deadline,project.purpose,project.memo
+プロジェクト.ID,プロジェクト.プロジェクト名,プロジェクト.顧客名,プロジェクト.期限,プロジェクト.目的,プロジェクト.メモ
+text,text,text,date,text,text
+df9d5402-218b-4d0d-87f0-c486340896ea,test,test,2024/5/29,aaaaa,
+cfd451e2-8e25-4632-9890-33695f583ac6,test2,test2,2024/5/22,test2,test2

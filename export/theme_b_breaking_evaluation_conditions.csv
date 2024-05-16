@@ -1,0 +1,6 @@
+theme_b_breaking_evaluation_conditions.__id,theme_b_breaking_evaluation_conditions.speed,theme_b_breaking_evaluation_conditions.wet_road,theme_b_breaking_evaluation_conditions.vehicle
+制動性能評価.条件ID,制動性能評価.開始速度,制動性能評価.ウェット路面,制動性能評価.試験車両
+text,number,boolean,text
+43dcdd39-f9ed-456c-b1bc-17918e866061,60,true,10daf7c0-941a-42e9-8913-07cb65ad6e81
+e187d3b1-e610-49b3-9879-fd070b792ed3,80,true,10daf7c0-941a-42e9-8913-07cb65ad6e81
+35960a3e-5d72-482b-82ae-f8b068a65a4d,100,true,10daf7c0-941a-42e9-8913-07cb65ad6e81
