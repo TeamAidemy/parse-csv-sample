@@ -14,13 +14,13 @@
 
 ### 動作環境
 
-- [virtualenv@20.26.2](https://virtualenv.pypa.io/en/latest/installation.html)
+- [Python@3.11](https://www.python.org/downloads/)
 
 
 ```sh
 # virtualenvを有効化
-$ python3 -m virtualenv -p 3.11.6 csv-sample
-$ source csv-sample/bin/activate
+$ python3 -m venv sample
+$ source sample/bin/activate
 
 # 必要なライブラリのインストール
 $ pip install -r requirements.txt
@@ -34,5 +34,5 @@ $ jupyter lab --NotebookApp.token='' --NotebookApp.password=''
 
 ```sh
 # virtualenvを終了
-$ source csv-sample/bin/deactivate
+$ exit
 ```
